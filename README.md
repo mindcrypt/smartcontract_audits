@@ -29,6 +29,7 @@ This repository collects offensive and audit tools to assess the actual security
 * https://github.com/JoranHonig/vertigo
 * https://elementus.io/
 * https://www.chainalysis.com/
+* https://solidcheck.io
 
 # Documentation
 
